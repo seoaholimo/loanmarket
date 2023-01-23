@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondIT.MicroLoan.Api", "MicroLoanApi\BeyondIT.MicroLoan.Api.csproj", "{34B065A9-EC57-4F84-902B-C2106DA47F3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondIT.MicroLoan.Application", "BeyondIT.MicroLoan.Application\BeyondIT.MicroLoan.Application.csproj", "{F892EF77-2BE0-42E8-B78E-EA3529786AE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondIT.MicroLoan.Test", "BeyondIT.MicroLoan.Test\BeyondIT.MicroLoan.Test.csproj", "{46377DC3-F945-4F3D-959E-93661109A70F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondIT.MicroLoan.Domain", "BeyondIT.MicroLoan.Domain\BeyondIT.MicroLoan.Domain.csproj", "{A1563B71-8936-4212-B7E1-29C14F64DA73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondIT.MicroLoan.Infrastructure", "BeyondIT.MicroLoan.Infrastructure\BeyondIT.MicroLoan.Infrastructure.csproj", "{ED67FC50-8DC0-4EED-9B98-E9BEDD46C965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B065A9-EC57-4F84-902B-C2106DA47F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B065A9-EC57-4F84-902B-C2106DA47F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B065A9-EC57-4F84-902B-C2106DA47F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B065A9-EC57-4F84-902B-C2106DA47F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F892EF77-2BE0-42E8-B78E-EA3529786AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F892EF77-2BE0-42E8-B78E-EA3529786AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F892EF77-2BE0-42E8-B78E-EA3529786AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F892EF77-2BE0-42E8-B78E-EA3529786AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46377DC3-F945-4F3D-959E-93661109A70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46377DC3-F945-4F3D-959E-93661109A70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46377DC3-F945-4F3D-959E-93661109A70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46377DC3-F945-4F3D-959E-93661109A70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1563B71-8936-4212-B7E1-29C14F64DA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1563B71-8936-4212-B7E1-29C14F64DA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1563B71-8936-4212-B7E1-29C14F64DA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1563B71-8936-4212-B7E1-29C14F64DA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED67FC50-8DC0-4EED-9B98-E9BEDD46C965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED67FC50-8DC0-4EED-9B98-E9BEDD46C965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED67FC50-8DC0-4EED-9B98-E9BEDD46C965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED67FC50-8DC0-4EED-9B98-E9BEDD46C965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AD69FC-A107-4064-B5D7-B70B6D792D2D}
+	EndGlobalSection
+EndGlobal
